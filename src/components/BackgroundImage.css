@@ -1,0 +1,12 @@
+.background-img {
+  flex: 1;
+  height: 150px;
+  background-image: url('/public/guangdang.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}
